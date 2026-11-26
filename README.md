@@ -51,3 +51,12 @@ CI valida contenido, lint, Molecule y secrets. Las reglas de protección y equip
 
 ## Alcance
 Agenda compacta de ocho horas con preparación previa y versión ampliada de 9 h 15 min–11 h 15 min más pausas. Open Demo Platform identifica la marca de este workshop comunitario. Los nombres técnicos de AAP y los enlaces a documentación oficial se conservan.
+
+
+## Contributors
+
+- [@jaque-salinas](https://github.com/jaque-salinas) — fork maintainer
+- [@psehgaft](https://github.com/psehgaft) — contributor
+- [@san985tos](https://github.com/san985tos) — contributor
+- [@frankjunker87-arch](https://github.com/frankjunker87-arch) — contributor
+- [@tec-girl](https://github.com/tec-girl) — contributor
